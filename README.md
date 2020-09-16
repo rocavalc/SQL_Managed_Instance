@@ -3,6 +3,8 @@
 Tools, troubleshooting guides, Kusto and T-SQL queries, etc. to help troubleshoot Azure SQL Database Managed Instance issues.
 
 
+
+
 # Azure SQL DB Managed Instance PerfStat script
 Modified version of PSSDiag PerfStat script for Azure SQL Database, ready to run against Managed Instance. You can can import the results to SQL Server using SQL Nexus:
 https://github.com/Microsoft/SqlNexus
